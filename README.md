@@ -1,3 +1,3 @@
-assignment of python
-factoral
-Throwing virtual dice
+#assignment of python
+#factoral
+#Throwing virtual dice
